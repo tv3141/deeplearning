@@ -1,2 +1,4 @@
 voila
+fastai>=2
+pillow
 ipywidgets==7.5
